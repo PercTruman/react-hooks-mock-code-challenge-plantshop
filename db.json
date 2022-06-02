@@ -41,6 +41,42 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Woody",
+      "image": "afeeaf",
+      "price": "67.00",
+      "id": 8
+    },
+    {
+      "name": "Shawn Hart",
+      "image": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "Woody",
+      "image": "",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "Woody",
+      "image": "",
+      "price": "",
+      "id": 11
+    },
+    {
+      "name": "Woody",
+      "image": "",
+      "price": "",
+      "id": 12
+    },
+    {
+      "name": "Woody",
+      "image": "",
+      "price": "",
+      "id": 13
     }
   ]
 }
